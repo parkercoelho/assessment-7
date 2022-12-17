@@ -148,3 +148,6 @@ resultsInsert = perf.stop();
 console.log('Results for the largeArray');
 console.log("insert", resultsInsert.preciseWords); 
 console.log("append", resultsAppend.preciseWords);
+
+
+
